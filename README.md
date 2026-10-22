@@ -10,4 +10,6 @@ ated using parameter recovery, test-retest reliability, and out-of-sample predic
 gate recovery of h for the absolute and squared models, but not the exponential model. Test-retest reliability of
 β remained high, while h showed some improved stability with RT modelling. The exponential model provided
 the best held-out RT prediction in both reward and loss conditions. However, no RT model improved held-out
-choice prediction relative to the choice-only baseline. Consequently, the exponential model provided the best fit for RT prediction, while the additional information gained from RTs in modelling choices was limited and parameter-specific.
+choice prediction relative to the choice-only baseline. Consequently, the exponential model provided the 
+best fit for RT prediction, while the additional information gained from RTs in modelling choices was limited 
+and parameter-specific.
